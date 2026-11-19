@@ -1,0 +1,6 @@
+{
+  "name": "SmartSched – Smart Student Timetable & Reminder App",
+  "description": "A clean, modern student productivity dashboard to manage weekly timetables, assignments, deadlines, and smart reminders with local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,15 @@
+Day,Subject,Time,Venue,Type
+Monday,Mathematics,9 - 10 AM,C301,CLASS
+Monday,C Programming,10 - 11 AM,C302,CLASS
+Tuesday,Quantum Physics,10 - 11 AM,C303,CLASS
+Tuesday,Physics Lab,1 - 3 PM,LAB 1,LAB
+Wednesday,BEEE,9 - 10 AM,C304,CLASS
+Thursday,English,10 - 11 AM,C301,CLASS
+Friday,C Programming,1 - 3 PM,LAB 2,LAB
+Saturday,Innovation & Design,9 - 10 AM,C305,CLASS
+,,,,
+,,,,
+Assignment,Subject,Due Date,Status,
+Arrays Program,C Programming,22 November 2026,Pending,
+Physics Record,Quantum Physics,23 November 2026,Pending,
+Matrix Problems,Mathematics,24 November 2026,Completed,
